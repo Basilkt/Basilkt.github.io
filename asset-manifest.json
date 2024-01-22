@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.bf538fe7.css",
-    "main.js": "/static/js/main.5471bfe8.js",
+    "main.js": "/static/js/main.037ec650.js",
     "static/media/KannurSquad.png": "/static/media/KannurSquad.6fd2a4696fa6d2de34bd.png",
     "static/media/Bro.JPEG": "/static/media/Bro.c4fb872fcc43c79de7a9.JPEG",
     "static/media/Toby.JPG": "/static/media/Toby.2e4517377f61684c355e.JPG",
@@ -9,10 +9,10 @@
     "static/media/HeroImage.jpg": "/static/media/HeroImage.16ab2a9888db478bb67b.jpg",
     "index.html": "/index.html",
     "main.bf538fe7.css.map": "/static/css/main.bf538fe7.css.map",
-    "main.5471bfe8.js.map": "/static/js/main.5471bfe8.js.map"
+    "main.037ec650.js.map": "/static/js/main.037ec650.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.5471bfe8.js"
+    "static/js/main.037ec650.js"
   ]
 }
